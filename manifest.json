@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "NASA Image of the Day New Tab",
   "description": "Replace new tab page with nasa's image of the day",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "browser_action": {
     "default_icon": "icon-big.png"
    },
